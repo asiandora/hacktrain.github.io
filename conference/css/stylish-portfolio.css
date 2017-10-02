@@ -290,6 +290,9 @@ hr.small {
     background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/rikesh.png');
 }
 
+.speaker-20{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/mark.png');
+}
 
 .cover-photo{
   -webkit-background-size: cover;
