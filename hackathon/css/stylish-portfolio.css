@@ -255,6 +255,11 @@ hr.small {
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 1);
 }
 
+.callout span{
+    font-size:21px;
+    color:#ffcc00;
+}
+
 /* Portfolio */
 
 .portfolio {
