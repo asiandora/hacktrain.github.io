@@ -297,6 +297,10 @@ hr.small {
 .speaker-21{
     background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/malcolm.png');
 }
+
+.speaker-22{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/davidw.png');
+}
 .cover-photo{
   -webkit-background-size: cover;
   -moz-background-size: cover;
