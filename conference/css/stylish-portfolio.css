@@ -915,8 +915,8 @@ hr.small {
 /*location*/
 
 .location{
-    padding: 120px 0;
-    background-image: url('../img/location.png');
+    padding: 110px 0;
+    background-image: url('../img/location.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -938,6 +938,19 @@ hr.small {
     -moz-box-shadow: 7px 7px 0px 1px rgba(255,255,255,1);
     padding:15px;
     letter-spacing: 3px;
+}
+
+.location h2{
+  font-size:18px;
+  color:#ffcc00;
+  font-family:'proxima_nova_ltsemibold', Georgia, sans-serif;
+  background-color: #000000;
+  letter-spacing: 3px;
+  padding:20px;
+}
+
+.location span{
+  font-size:14px;
 }
 
 /*tickets*/
