@@ -326,8 +326,33 @@ hr.small {
     background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/philippe.png');
 }
 
+.speaker-29{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/heinz.png');
+}
 
+.speaker-30{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/remy.png');
+}
 
+.speaker-31{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/jj.png');
+}
+
+.speaker-32{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/andrewc.png');
+}
+
+.speaker-33{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/grahamd.png');
+}
+
+.speaker-34{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/stevew.png');
+}
+
+.speaker-35{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/julien.png');
+}
 
 
 .cover-photo{
