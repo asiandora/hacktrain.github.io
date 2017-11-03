@@ -222,7 +222,7 @@ hr.small {
 }
 
 .speaker-2{
-    background-image: url('../img/speakers/tom.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 1)),url('../img/speakers/tom.png');
 }
 
 .speaker-3{
