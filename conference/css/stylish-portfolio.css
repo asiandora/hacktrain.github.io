@@ -354,6 +354,15 @@ hr.small {
     background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/julien.png');
 }
 
+.speaker-36{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/lilli.png');
+}
+
+.speaker-37{
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 1)), url('../img/speakers/paulp.png');
+}
+
+
 
 .cover-photo{
   -webkit-background-size: cover;
